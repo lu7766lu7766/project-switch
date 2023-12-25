@@ -1,5 +1,5 @@
 {
-  "sukuan": false,
-  "aurora": false,
-  "future_fa": true
+  "sukuan": 0.3,
+  "aurora": 0.8,
+  "future_fa": 0
 }
